@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chatrooms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="chatroomschm.xsd">
+    <chatroom id="1">
+        <groupname>Humber College</groupname>
+        <members>20</members>
+    </chatroom>
+    <chatroom id="2">
+        <groupname>Best Friends</groupname>
+        <members>10</members>
+    </chatroom>
+    <chatroom id="3">
+        <groupname>Main Room</groupname>
+        <members>55</members>
+    </chatroom>
+</chatrooms>

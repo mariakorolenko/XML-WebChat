@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chatbox xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="chatboxschema.xsd" groupid="1">
+  <message>
+    <deliveryTime>09:40:00 PM</deliveryTime>
+    <username>Kris</username>
+    <text>Hello</text>
+  </message>
+  <message>
+    <deliveryTime>09:40:40 PM</deliveryTime>
+    <username>Lauren</username>
+    <text>I am here. Let's meet to do our assignment</text>
+  </message>
+  <message>
+    <deliveryTime>09:41:01 PM</deliveryTime>
+    <username>Kris</username>
+    <text>Okay, tommorow at 2:00 at Library</text>
+  </message>
+  <message>
+    <deliveryTime>09:41:20 PM</deliveryTime>
+    <username>Alicia</username>
+    <text>Guys I am comming too</text>
+  </message>
+  <message>
+    <deliveryTime>09:42:01 PM</deliveryTime>
+    <username>Kris</username>
+    <text>Okay friends, I will see you tommorow</text>
+  </message>
+</chatbox>
